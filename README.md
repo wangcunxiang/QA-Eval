@@ -1,3 +1,3 @@
 # QA-Eval
-The repository for paper &lt;Evaluating the Evaluators: Evaluating Open Question Answering Assessments with QA-Evaluation>
+The repository for paper &lt;Evaluating Open Question Answering Evaluation>
 Coming soon
