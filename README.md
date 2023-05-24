@@ -14,7 +14,7 @@
 - [Contact](#-contact)
   
   # 🚀 Introduction
-  Welcome to our GitHub repository for "Evaluating Open-QA Evaluation", a comprehensive study on the evaluating of evaluation methods in Open Question Answering (Open-QA) systems.
+  Welcome to our GitHub repository for the "Evaluating Open-QA Evaluation" [paper](https://arxiv.org/abs/2305.12421), a comprehensive study on the evaluating of evaluation methods in Open Question Answering (Open-QA) systems.
   
   Open-QA systems, which generate answers to questions with a vast range of possible topics, have become an increasingly significant research field in recent years. However, accurately evaluating these systems remains challenging, and currently lacks robust, reliable methods.
   
