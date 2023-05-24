@@ -17,8 +17,11 @@
   Welcome to our GitHub repository for "Evaluating Open-QA Evaluation", a comprehensive study on the evaluating of evaluation methods in Open Question Answering (Open-QA) systems.
   
   Open-QA systems, which generate answers to questions with a vast range of possible topics, have become an increasingly significant research field in recent years. However, accurately evaluating these systems remains challenging, and currently lacks robust, reliable methods.
+  
   In response to this, we introduce the QA Evaluation task (QA-Eval), a new task that rigorously tests various evaluation methods for their ability to accurately assess the relevance of machine-generated answers to a set of gold standard answers within an Open-QA context. This task requires the evaluating method to discern whether a machine-generated answer aligns with the gold standard answer, with performance evaluated against human-annotated results.
+  
   We sourced our data from the test sets of two well-established QA datasets, Natural Questions (NQ) and TriviaQA. We ask several representative models, including FiD, ChatGPT-(3.5/4), GPT-3.5 and BingChat, to answer the questions. We then manually annotated the correctness of each question-answer pair.
+  
   Through this work, we hope to foster a deeper understanding of Open-QA systems, their evaluations, and aid the research community in developing more reliable automatic evaluation tools.
   
   # 📝 Dataset
