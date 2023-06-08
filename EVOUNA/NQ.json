@@ -10,7 +10,7 @@
   "judge_chatgpt": true,
   "answer_gpt4": "The first Nobel Prize in Physics was awarded in 1901 to Wilhelm Conrad R\u00f6ntgen, a German physicist. He received the prize for his discovery of X-rays, a groundbreaking achievement that revolutionized the fields of medicine, physics, and chemistry.",
   "judge_gpt4": true,
-  "answer_newbing": "According to Wikipedia,Wilhelm Conrad R\u00f6ntgen of Germany got the first Nobel Prize in Physics in 1901 for his discovery of X-rays.  He received 150,782 SEK (Swedish krona) as the prize money.",
+  "answer_newbing": "According to Wikipedia, Wilhelm Conrad R\u00f6ntgen of Germany got the first Nobel Prize in Physics in 1901 for his discovery of X-rays.  He received 150,782 SEK (Swedish krona) as the prize money.",
   "judge_newbing": true,
   "improper": false
  },
@@ -40,7 +40,7 @@
   "judge_chatgpt": false,
   "answer_gpt4": "For shortwave broadcast service, Amplitude Modulation (AM) is the mode commonly used.",
   "judge_gpt4": false,
-  "answer_newbing": "Hello, this is Bing.  According to, shortwave radio is a type of radio transmission technology that uses shortwave frequencies (between 3. 3 and 30 MHz) to carry voice or music.  There are two different types of shortwave transmissions: AM and FM.  For most types of voice communication (with the exception of international broadcast stations), you will need a radio with sideband mode.",
+  "answer_newbing": "Hello, this is Bing.  According to , shortwave radio is a type of radio transmission technology that uses shortwave frequencies (between 3. 3 and 30 MHz) to carry voice or music.  There are two different types of shortwave transmissions: AM and FM.  For most types of voice communication (with the exception of international broadcast stations), you will need a radio with sideband mode.",
   "judge_newbing": false,
   "improper": false
  },
@@ -115,7 +115,7 @@
   "judge_chatgpt": false,
   "answer_gpt4": "I cannot provide real-time information on the release of specific episodes for any TV series. The last season of \"Scandal,\" an American political thriller television series created by Shonda Rhimes, concluded in April 2018 with Season 7. There are no new episodes scheduled for release since the series has ended.",
   "judge_gpt4": null,
-  "answer_newbing": "nan.",
+  "answer_newbing": " | \u2013 carotgame. com.  https://carotgame. com/what-is-hp-in-a-game/ Accessed 2023/3/1.",
   "judge_newbing": null,
   "improper": true
  },
@@ -130,7 +130,7 @@
   "judge_chatgpt": false,
   "answer_gpt4": "The Philadelphia Eagles won their first and only Super Bowl in franchise history on February 4, 2018, when they defeated the New England Patriots in Super Bowl LII (52).",
   "judge_gpt4": null,
-  "answer_newbing": "nan.",
+  "answer_newbing": "(3) Hp and Def - Empires & Puzzles Community Forum.  https://forum. smallgiantgames. com/t/hp-and-def/144661 Accessed 2023/3/1.",
   "judge_newbing": null,
   "improper": true
  },
@@ -282,7 +282,7 @@
   "judge_gpt4": true,
   "answer_newbing": "According to the official website of the United States Mint, the current director of the US Mint is Ventris C.  Gibson, who took office on June 22, 2022.  She was nominated by President Biden on December 13, 2021 and confirmed by the Senate on June 15, 2022.  She is the 40th director of the US Mint.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who was named african footballer of the year 2014",
@@ -324,7 +324,7 @@
   "answer_chatgpt": "fundamental right guaranteed to every citizen. Article 300A of the Indian Constitution states that no person shall be deprived of his property except by authority of law. This means that the government cannot take away a person's property without following due process of law and providing just compensation. However, the right to property was not always a fundamental right in India. It was only in 1978 that the Constitution was amended to make it a fundamental right. Prior to that, the right to property was a legal",
   "judge_chatgpt": true,
   "answer_gpt4": "The right to property in India was originally a fundamental right under Article 19(1)(f) and Article 31 of the Indian Constitution. However, the 44th Amendment in 1978 removed the right to property as a fundamental right, and it was reclassified as a legal right under Article 300A.",
-  "judge_gpt4": false,
+  "judge_gpt4": true,
   "answer_newbing": "The right to property according to the constitution of India is a constitutional right under Article 300A.  It was earlier a fundamental right under Article 19 (1) (f) and Article 31, but it was abolished by the 44th Amendment Act in 1978.",
   "judge_newbing": true,
   "improper": false
@@ -671,7 +671,7 @@
   "answer_gpt4": "The name Sinead is of Irish origin, derived from the name \"Jane\" or \"Jean.\" Sinead means \"God is gracious\" or \"God's gracious gift.\"",
   "judge_gpt4": true,
   "answer_newbing": "The name Sinead is of Irish and Hebrew origin and means \"God is gracious\".  It's a variant of Jane or Janet, which are feminine forms of John.",
-  "judge_newbing": false,
+  "judge_newbing": true,
   "improper": false
  },
  {
@@ -772,12 +772,12 @@
   "answer_gpt35": "1. Megazord\n2. Dragonzord\n3. Titanus\n4. Pterodactyl Dinozord\n5. Mastodon Dinozord\n6. Triceratops Dinozord\n7. Sabertooth Tiger Dinozord\n8. Tyrannosaurus Dinozord",
   "judge_gpt35": false,
   "answer_chatgpt": "The Zords in the 2017 Power Rangers movie are:\n\n1. Tyrannosaurus Rex Dinozord: piloted by Jason, the Red Ranger, this Zord is based on the Tyrannosaurus Rex and is the largest of the Zords.\n\n2. Mastodon Dinozord: piloted by Zack, the Black Ranger, this Zord is based on the Mastodon and has powerful tusks that can be used as weapons.\n\n3. Triceratops",
-  "judge_chatgpt": true,
+  "judge_chatgpt": null,
   "answer_gpt4": "In the 2017 \"Power Rangers\" movie, the Zords are as follows: T-Rex Battle Zord (Red Ranger), Mastodon Battle Zord (Black Ranger), Triceratops Battle Zord (Blue Ranger), Sabertooth Battle Zord (Yellow Ranger), and Pterodactyl Battle Zord (Pink Ranger).",
   "judge_gpt4": false,
   "answer_newbing": "The Zords are mecha battle robots that can combine into a Megazord.  The Power Rangers movie from 2017 features five Zords based on dinosaurs: T-Rex, Triceratops, Mastodon, Pterodactyl and Saber-Toothed Tiger.  They were created by Zordon, a former Power Ranger who became a mentor to the new team.  There is also an older one from 1995 that has different Zords.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who plays the voice of johnny in sing",
@@ -802,12 +802,12 @@
   "answer_gpt35": "1. Boutique Hotels: These are small, independent hotels that typically offer upscale rooms and amenities.\n\n2. Resort Hotels: These are large properties that offer a variety of recreational activities, such as golf courses, swimming pools, spas, and more.\n\n3. Extended Stay Hotels: These are hotels designed for longer stays, usually with larger rooms and kitchenettes.",
   "judge_gpt35": false,
   "answer_chatgpt": "There are many different types of hotel properties, but here are three common types:\n\n1. Luxury hotels: These are high-end hotels that offer premium amenities and services, such as spas, fine dining restaurants, and personalized concierge services. They often have a high price point and cater to affluent travelers.\n\n2. Boutique hotels: These are smaller, independent hotels that offer a unique and stylish experience. They often have a specific theme or design aesthetic and offer personalized service. Boutique hotels are often located in trendy",
-  "judge_chatgpt": false,
+  "judge_chatgpt": null,
   "answer_gpt4": "Three different types of hotel properties include: a. Luxury hotels - Upscale accommodations offering high-end amenities, services, and facilities. b. Boutique hotels - Smaller, unique properties with a strong focus on design, personalized service, and character. c. Budget hotels - Affordable lodging options with basic amenities and services, catering to budget-conscious travelers.",
   "judge_gpt4": false,
   "answer_newbing": "There are many ways to classify hotels by their type, such as size, location, target market, level of service, facilities, ownership and affiliation.  However, some of the most popular types of hotels are:- Chain hotels: Hotels that belong to a group of hotels operated by a company or owner.  They usually have standardized services and facilities across different locations. - Resorts: Hotels that offer recreational facilities and activities for guests who want to relax and enjoy themselves.  They are often located in scenic or natural areas. - Boutique hotels: Hotels that have a unique style, design or theme that sets them apart from other hotels.  They are usually smaller and more intimate than chain hotels.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who decides the number of judges in the high court",
@@ -1046,7 +1046,7 @@
   "answer_gpt4": "Turkish, Finnish, and Hungarian belong to the Uralic language family. Turkish is part of the Turkic branch, while Finnish and Hungarian are part of the Finno-Ugric branch within the Uralic family.",
   "judge_gpt4": true,
   "answer_newbing": "According to the search results, Turkish belongs to the Turkic language family, while Finnish and Hungarian belong to the Finno-Ugric branch of the Uralic languages.  They are not genetically related, but they have some typological similarities such as vowel harmony and agglutination.",
-  "judge_newbing": true,
+  "judge_newbing": false,
   "improper": false
  },
  {
@@ -1248,7 +1248,7 @@
   "question": "what are the top five wine producing states",
   "golden_answer": "Washington/Pennsylvania/Oregon/New York/California",
   "answer_fid": "New York",
-  "judge_fid": false,
+  "judge_fid": true,
   "answer_gpt35": "1. California\n2. Washington\n3. Oregon\n4. New York\n5. Pennsylvania",
   "judge_gpt35": true,
   "answer_chatgpt": "The top five wine producing states in the United States are:\n\n1. California: California is by far the largest wine producing state in the US, accounting for around 85% of the country's total wine production. Some of the most famous wine regions in California include Napa Valley, Sonoma County, and Paso Robles.\n\n2. Washington: Washington is the second largest wine producing state in the US, with a focus on producing high-quality red wines such as Cabernet Sauvignon and Mer",
@@ -1317,7 +1317,7 @@
   "judge_gpt4": false,
   "answer_newbing": "The weight of a Honda Fit depends on the model year and trim level.  According to , a 2020 Honda Fit has a curb weight of 2,522 to 2,648 pounds.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "an edge that is between a vertex and itself is a",
@@ -1376,7 +1376,7 @@
   "answer_gpt4": "The job of a Justice of the Peace varies depending on the jurisdiction but generally involves duties such as witnessing documents, administering oaths, performing marriages, and handling minor legal matters like small claims court or traffic violations. In some areas, they may also have the power to issue arrest warrants or preside over preliminary hearings in criminal cases.",
   "judge_gpt4": true,
   "answer_newbing": "Hello, this is Bing.  A justice of the peace (JP) is a judicial officer who can perform various legal duties such as administering oaths, performing marriage ceremonies, certifying documents and hearing minor cases.  The title derives from 1361, when Edward III appointed commissioners to keep the peace in his name.",
-  "judge_newbing": false,
+  "judge_newbing": true,
   "improper": false
  },
  {
@@ -1407,7 +1407,7 @@
   "judge_gpt4": true,
   "answer_newbing": "According to ,  and , Bart Cummings is the trainer who has won the most Melbourne Cups with 12 wins.  His first winner was Light Fingers in 1965.",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who was involved in the mapp vs ohio case",
@@ -1640,11 +1640,11 @@
   "answer_fid": "the active site",
   "judge_fid": false,
   "answer_gpt35": "The allosteric site is a specific binding site on an enzyme molecule that binds a regulatory molecule and alters the enzyme's activity. Allosteric sites are typically located on the surface of the enzyme and are distinct from the enzyme's active site, which is responsible for the enzyme's catalytic activity.",
-  "judge_gpt35": false,
+  "judge_gpt35": true,
   "answer_chatgpt": "The allosteric site of an enzyme is a specific site on the enzyme molecule that is not the active site, but can bind to a molecule called an allosteric effector. This binding can cause a conformational change in the enzyme, which can either enhance or inhibit its activity.",
   "judge_chatgpt": true,
   "answer_gpt4": "The allosteric site is a specific site on an enzyme that is separate from the active site. When a molecule binds to the allosteric site, it can change the enzyme's shape, either enhancing or inhibiting its ability to bind to the substrate at the active site.",
-  "judge_gpt4": false,
+  "judge_gpt4": true,
   "answer_newbing": "The allosteric site of an enzyme is a regulatory site that can bind small molecules called effectors.  These effectors can change the enzyme's conformation and affect its activity.",
   "judge_newbing": true,
   "improper": false
@@ -1737,7 +1737,7 @@
   "judge_gpt4": false,
   "answer_newbing": "The most successful MotoGP rider from Australia is Mick Doohan who stood on the podium 95 times.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who warned europe to stay out of the americas",
@@ -2124,7 +2124,7 @@
   "answer_chatgpt": "The apostle Peter spoke at the Council of Jerusalem.",
   "judge_chatgpt": true,
   "answer_gpt4": "The Apostle Peter spoke at the Council of Jerusalem, as described in Acts 15. The Council of Jerusalem was an early Christian meeting to discuss the relationship between Jewish law and the growing Gentile Christian community.",
-  "judge_gpt4": true,
+  "judge_gpt4": false,
   "answer_newbing": "The Council of Jerusalem was a council described in chapter 15 of the Acts of the Apostles, allegedly held in Jerusalem around c.  48\u201350 AD.  The apostles Barnabas and Paul went to Jerusalem to meet with the \"Pillars of the Church\": James the Just, Peter, and John.",
   "judge_newbing": true,
   "improper": false
@@ -2336,7 +2336,7 @@
   "answer_gpt4": "The Regulatory Reform (Fire Safety) Order 2005 first came into effect in England and Wales on October 1, 2006.",
   "judge_gpt4": true,
   "answer_newbing": "The Regulatory Reform (Fire Safety) Order 2005 was introduced in October 2006.",
-  "judge_newbing": "TRUE",
+  "judge_newbing": true,
   "improper": false
  },
  {
@@ -2544,7 +2544,7 @@
   "answer_chatgpt": "As an AI language model, I don't have access to the latest archaeological findings or research on Burzahom. However, based on historical and cultural context, it is likely that the roofs of houses in Burzahom were made of locally available materials such as thatch, mud, and wood. These materials were commonly used in ancient times for building houses and structures in many parts of the world.",
   "judge_chatgpt": false,
   "answer_gpt4": "The roofs of houses in Burzahom, an ancient Neolithic site in the Kashmir Valley of India, were made using thatch. Thatch is a roofing material made from plant stalks, such as straw, reeds, or grass, which were abundant in the region.",
-  "judge_gpt4": false,
+  "judge_gpt4": true,
   "answer_newbing": "During the Neolithic period, people in Burzahom built pit houses by digging into the ground.  The roofs of these houses were made of thatch which was made of birch.",
   "judge_newbing": true,
   "improper": false
@@ -2765,7 +2765,7 @@
   "answer_fid": "the tenderness of meat",
   "judge_fid": true,
   "answer_gpt35": "Rigor mortis is an important process in meat processing as it helps to improve the quality of the meat. During rigor mortis, the muscle fibers in the meat become rigid and the meat becomes firm and easier to cut. This firmness also helps to keep the meat from shrinking during cooking. Additionally, the firmness of the meat also helps to keep the juices in the meat during cooking, resulting in a juicier, more flavorful product. Finally, rigor mortis helps",
-  "judge_gpt35": true,
+  "judge_gpt35": false,
   "answer_chatgpt": "As an AI language model, I don't have personal opinions or beliefs, but I can provide information based on research and studies. \n\nRigor mortis is the stiffening of muscles that occurs after an animal is slaughtered. It is an important factor in meat processing for several reasons:\n\n1. Meat quality: The onset and duration of rigor mortis can affect the quality of meat. If rigor mortis sets in too quickly, the meat can become tough and dry. If it sets in too slowly",
   "judge_chatgpt": true,
   "answer_gpt4": "The importance of rigor mortis in meat processing lies in its effect on meat quality. Rigor mortis is the stiffening of muscles after death, which can cause meat to become tough if not managed properly. Understanding and controlling the rigor mortis process can help ensure that meat is tender and of high quality for consumers.",
@@ -2838,7 +2838,7 @@
   "question": "where is the north pole on the world map",
   "golden_answer": "latitude 90\u00b0 North",
   "answer_fid": "the Northern Hemisphere",
-  "judge_fid": true,
+  "judge_fid": false,
   "answer_gpt35": "The North Pole is located at the northernmost point on the Earth's surface, in the Arctic Ocean. It is located at 90 degrees north latitude and 0 degrees longitude. On a world map, the North Pole would be located at the top center of the map.",
   "judge_gpt35": true,
   "answer_chatgpt": "The North Pole is located at the top of the world map, at the northernmost point of the Earth's axis. It is not represented as a specific point on most world maps, but rather as a point in the Arctic Ocean surrounded by the land masses of North America, Europe, and Asia.",
@@ -4233,7 +4233,7 @@
   "question": "who is the presiding officer of legislative council in india",
   "golden_answer": "Chairman",
   "answer_fid": "The President",
-  "judge_fid": false,
+  "judge_fid": true,
   "answer_gpt35": "The Presiding Officer of the Legislative Council in India is the Chairman of the Council. The Chairman is elected by the members of the Council from amongst themselves.",
   "judge_gpt35": true,
   "answer_chatgpt": "The presiding officer of the Legislative Council in India is known as the Chairman.",
@@ -4254,7 +4254,7 @@
   "answer_chatgpt": "\"Son of a Preacher Man\" was released on November 16, 1968.",
   "judge_chatgpt": false,
   "answer_gpt4": "\"Son of a Preacher Man\" was released in 1968, performed by Dusty Springfield and featured on her album \"Dusty in Memphis.\"",
-  "judge_gpt4": true,
+  "judge_gpt4": false,
   "answer_newbing": "\"Son of a Preacher Man\" is a song recorded by Dusty Springfield.  It was released on November 8, 1968 as a single from her album \"Dusty in Memphis\".",
   "judge_newbing": true,
   "improper": false
@@ -4383,7 +4383,7 @@
   "question": "who is the book of galatians written to",
   "golden_answer": "the churches of Galatia",
   "answer_fid": "Galatians",
-  "judge_fid": false,
+  "judge_fid": true,
   "answer_gpt35": "The book of Galatians is written to the churches of Galatia.",
   "judge_gpt35": true,
   "answer_chatgpt": "The book of Galatians is written to the churches in Galatia, a region in modern-day Turkey.",
@@ -4443,7 +4443,7 @@
   "question": "who wrote antigone and what are the dates of his birth and death",
   "golden_answer": "winter 406/5 BC/c. 497/6/Sophocles",
   "answer_fid": "Sophocles",
-  "judge_fid": false,
+  "judge_fid": true,
   "answer_gpt35": "Antigone was written by the Greek playwright Sophocles. He was born in 495 BC and died in 406 BC.",
   "judge_gpt35": true,
   "answer_chatgpt": "Antigone was written by the ancient Greek playwright Sophocles. He was born in 496 BCE and died in 406 BCE.",
@@ -4848,7 +4848,7 @@
   "question": "how long is the famous suspension bridge in san francisco and what is it called",
   "golden_answer": "one-mile-wide/Golden Gate Bridge",
   "answer_fid": "The Golden Gate Bridge",
-  "judge_fid": false,
+  "judge_fid": true,
   "answer_gpt35": "The famous suspension bridge in San Francisco is called the Golden Gate Bridge, and it is 1.7 miles long.",
   "judge_gpt35": true,
   "answer_chatgpt": "The famous suspension bridge in San Francisco is called the Golden Gate Bridge and it is 1.7 miles (2.7 kilometers) long.",
@@ -5004,7 +5004,7 @@
   "answer_chatgpt": "As an AI language model, I don't have access to the latest updates and information about TV shows. However, Marnie Simpson has been a recurring cast member of Geordie Shore since its seventh season in 2013. It's best to check the latest episodes or updates on the show's official website or social media pages.",
   "judge_chatgpt": false,
   "answer_gpt4": "I cannot provide the specific episode number for Marnie's return in Geordie Shore without knowing which season or context you're referring to.",
-  "judge_gpt4": false,
+  "judge_gpt4": true,
   "answer_newbing": "Marnie Simpson returned to Geordie Shore in Season 16.  In episode 1 of that season, Anna recruits the Geordies back to the house where new boy Sam catches the eyes of both Chloe and Abbie.  Marnie is left infuriated when Steph declares that she has unfinished business with Aaron.",
   "judge_newbing": false,
   "improper": false
@@ -5328,9 +5328,9 @@
   "question": "element named after fictional planet from which superman came",
   "golden_answer": "Kryptonite",
   "answer_fid": "Krypton",
-  "judge_fid": true,
+  "judge_fid": false,
   "answer_gpt35": "Krypton.",
-  "judge_gpt35": true,
+  "judge_gpt35": false,
   "answer_chatgpt": "Krypton (Kr)",
   "judge_chatgpt": true,
   "answer_gpt4": "The element named after the fictional planet Krypton (Superman's home planet) is Krypton (Kr).",
@@ -7143,7 +7143,7 @@
   "question": "what information is displayed in clear text from the ftp header",
   "golden_answer": "all transmissions",
   "answer_fid": "username and password",
-  "judge_fid": true,
+  "judge_fid": false,
   "answer_gpt35": "The FTP header typically contains information such as the FTP server name, the username used to log in, the password used to log in, the file transfer type (binary or ASCII), the file size, the file name, and the date and time of the transfer. All of this information is displayed in clear text.",
   "judge_gpt35": true,
   "answer_chatgpt": "As an AI language model, I cannot access or display any information in clear text from the FTP header. However, FTP (File Transfer Protocol) is an insecure protocol that transmits data in clear text, including login credentials, file names, and contents. Therefore, it is highly recommended to use secure alternatives such as SFTP (Secure File Transfer Protocol) or FTPS (FTP over SSL/TLS) to protect sensitive information during file transfers.",
@@ -7207,12 +7207,12 @@
   "answer_gpt35": "Dr. Rajendra Prasad was elected the President of the Constituent Assembly of India on 11 December 1946. He held the office until the adoption of the Indian Constitution on 26 January 1950.",
   "judge_gpt35": true,
   "answer_chatgpt": "As an AI language model, I cannot determine which constituent assembly you are referring to. Please provide more context or information so I can assist you better.",
-  "judge_chatgpt": false,
+  "judge_chatgpt": null,
   "answer_gpt4": "Dr. Rajendra Prasad was elected as the President of the Constituent Assembly of India, which was responsible for drafting the Indian Constitution.",
   "judge_gpt4": true,
   "answer_newbing": "Dr.  Rajendra Prasad was elected as the permanent president of the Constituent Assembly of India on 11th December 1946 .",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "what is the name of the gap between two front teeth",
@@ -7257,7 +7257,7 @@
   "judge_gpt4": true,
   "answer_newbing": "In 2022, Sammy Smith drove for Joe Gibbs Racing in eight of the remaining races on the NASCAR Xfinity Series schedule.  In 2023, Joe Gibbs Racing confirmed that Sammy Smith will be driving their No.  18 Toyota.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "how many steps does the cn tower have",
@@ -7278,7 +7278,7 @@
   "question": "when did south sudan join east african community",
   "golden_answer": "April 2016/2016",
   "answer_fid": "March 2016",
-  "judge_fid": false,
+  "judge_fid": true,
   "answer_gpt35": "South Sudan became the sixth member of the East African Community (EAC) on April 8, 2016.",
   "judge_gpt35": true,
   "answer_chatgpt": "South Sudan joined the East African Community on April 15, 2016.",
@@ -7340,7 +7340,7 @@
   "answer_fid": "Four",
   "judge_fid": true,
   "answer_gpt35": "There is no definitive answer to this question as Chinese dragons are associated with many different myths and legends. In some stories, they are said to protect the four seas, while in others they are said to protect all five seas.",
-  "judge_gpt35": true,
+  "judge_gpt35": false,
   "answer_chatgpt": "As an AI language model, I don't have personal beliefs or preferences. However, to answer your question, Chinese dragons are believed to be protectors of four seas: the East Sea (also known as the East China Sea), the South Sea (also known as the South China Sea), the West Sea (also known as the Qinghai Lake), and the North Sea (also known as Lake Baikal).",
   "judge_chatgpt": true,
   "answer_gpt4": "The Chinese dragon mythology does not specifically mention the dragons as protectors of a certain number of seas. The Chinese dragons are traditionally associated with water, including rivers, seas, and rain, and are considered symbols of power, strength, and good luck.",
@@ -7737,7 +7737,7 @@
   "judge_gpt4": null,
   "answer_newbing": "In India and the Middle East, clarified butter is known as Ghee.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who played the girl in silence of the lambs",
@@ -7780,7 +7780,7 @@
   "judge_chatgpt": false,
   "answer_gpt4": null,
   "judge_gpt4": null,
-  "answer_newbing": "In the context of relationships, a \u201chome run\u201d is a metaphor that means sexual intercourse.",
+  "answer_newbing": "In the context of relationships, a \u201chome run\u201d is a metaphor that means sexual intercourse1.",
   "judge_newbing": true,
   "improper": false
  },
@@ -8152,12 +8152,12 @@
   "answer_gpt35": "The UK\u2019s data protection and security laws are based on the EU\u2019s General Data Protection Regulation (GDPR). The GDPR is a comprehensive data protection law that sets out the rules for collecting, storing, and using personal data.\n\nThe GDPR applies to any organisation that processes personal data, regardless of whether it is based inside or outside the EU. This includes companies, government agencies, charities, and other organisations.\n\nThe UK also has its own national",
   "judge_gpt35": true,
   "answer_chatgpt": "The main legislation regarding data protection and security in the UK is the Data Protection Act 2018, which replaced the previous Data Protection Act 1998 and implemented the EU General Data Protection Regulation (GDPR) into UK law. The act sets out rules for how personal data should be collected, processed, stored, and shared, and gives individuals certain rights over their personal data.",
-  "judge_chatgpt": true,
+  "judge_chatgpt": null,
   "answer_gpt4": null,
   "judge_gpt4": null,
   "answer_newbing": "The principal data protection legislation in the UK was Regulation (EU) 2016/679 (the \u201cGeneral Data Protection Regulation\u201d or \u201cGDPR\u201d) until the end of the \u2018Transition Period\u2019 on 31 December 2020 .  The Data Protection Act 2018 is now the UK\u2019s implementation of GDPR and controls how personal information is used by organizations, businesses or government .",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "where does the eurostar train arrives in london",
@@ -8977,12 +8977,12 @@
   "answer_gpt35": "The driver of the number 95 car in NASCAR is Christopher Bell.",
   "judge_gpt35": false,
   "answer_chatgpt": "As an AI language model, I don't have access to real-time information. However, as of the 2021 NASCAR Cup Series season, the number 95 car is not currently being used by any team. In the past, several drivers have driven the number 95 car, including Daniel Suarez, Matt DiBenedetto, and Michael McDowell.",
-  "judge_chatgpt": true,
+  "judge_chatgpt": null,
   "answer_gpt4": null,
   "judge_gpt4": null,
   "answer_newbing": "The number 95 car in NASCAR has been driven by several drivers.  Currently, it is driven by Michael McDowell.  Previously, it was driven by Christopher Bell during his rookie campaign in 2020 for Leavine Family Racing.",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "i was a great islamic scholar and mathematician who died in 1131 ce",
@@ -9427,12 +9427,12 @@
   "answer_gpt35": "John Calipari is the head coach of the University of Kentucky men's basketball team.",
   "judge_gpt35": true,
   "answer_chatgpt": "As an AI language model, I don't have access to real-time information, but as of my last update, John Calipari is the head coach of the University of Kentucky men's basketball team.",
-  "judge_chatgpt": true,
+  "judge_chatgpt": null,
   "answer_gpt4": null,
   "judge_gpt4": null,
   "answer_newbing": "The current head coach of the University of Kentucky men's basketball team is John Calipari.  He has held this position since 2009 and won an NCAA Championship with the team in 2012.",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "where does the papillary layer of the skin lie",
@@ -9592,12 +9592,12 @@
   "answer_gpt35": "The process that causes the continents to drift apart is called plate tectonics. Plate tectonics is the movement of large sections of the Earth's crust, known as tectonic plates. These plates are continually moving, driven by convection currents in the mantle beneath the crust. When two plates move in opposite directions, it can cause the continents to drift apart, forming new ocean basins.",
   "judge_gpt35": true,
   "answer_chatgpt": "The process that causes the continents to drift apart is called plate tectonics. The Earth's crust is made up of several large plates that float on the molten mantle below. These plates move slowly over time due to the convection currents in the mantle. As the plates move, they can collide, slide past each other, or move away from each other. When two plates move away from each other, it creates a gap or rift between them. This gap is filled with magma from the",
-  "judge_chatgpt": true,
+  "judge_chatgpt": null,
   "answer_gpt4": null,
   "judge_gpt4": null,
   "answer_newbing": "The process that causes continents to drift apart is called plate tectonics.  The Earth's outer shell is composed of massive slabs of rock called tectonic plates that move a little bit every year.  Heat coming from the interior of the Earth triggers this movement through convection currents inside the mantle.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who played in last train from gun hill",
@@ -9742,12 +9742,12 @@
   "answer_gpt35": "The Minister of Local Government in Zimbabwe is July Moyo.",
   "judge_gpt35": true,
   "answer_chatgpt": "As an AI language model, I do not have access to real-time information. However, as of August 2021, the Minister of Local Government in Zimbabwe is July Moyo.",
-  "judge_chatgpt": true,
+  "judge_chatgpt": null,
   "answer_gpt4": null,
   "judge_gpt4": null,
   "answer_newbing": "The Minister of Local Government, Rural and Urban Development in Zimbabwe is July Moyo.",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who are the dallas cowboys playing on thanksgiving",
@@ -9757,12 +9757,12 @@
   "answer_gpt35": "The Dallas Cowboys are playing the Washington Football Team on Thanksgiving Day.",
   "judge_gpt35": false,
   "answer_chatgpt": "As an AI language model, I do not have access to real-time information or current events. However, traditionally, the Dallas Cowboys play on Thanksgiving Day every year as part of the NFL's Thanksgiving Day games. The opponent for the game varies each year.",
-  "judge_chatgpt": false,
+  "judge_chatgpt": null,
   "answer_gpt4": null,
   "judge_gpt4": null,
-  "answer_newbing": "The Dallas Cowboys play the Giants on Thanksgiving Day in 2022.  The game will be broadcast on Fox at 4:30 p. m. ET.",
+  "answer_newbing": "The Dallas Cowboys play the Giants on Thanksgiving Day in 20221.  The game will be broadcast on Fox at 4:30 p. m. ET1.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who sang i put a spell on you in hocus pocus",
@@ -10237,12 +10237,12 @@
   "answer_gpt35": "The holidays have come and gone, but the Parker family's Christmas traditions have been passed down for generations. \n\nThe Parker family has always been a close-knit one, and the Christmas season is no exception. Every year, the family gathers together to celebrate the season with traditional holiday activities. The family still has the same leg lamp from the original movie, and it's proudly displayed in the living room. \n\nThe Parker kids are now all grown up, but they still",
   "judge_gpt35": false,
   "answer_chatgpt": "As the years went by, the Parker family continued to celebrate Christmas with the same enthusiasm and joy as they did when Ralphie was a child. The family grew in size as Ralphie and his wife had children of their own, and the tradition of the Christmas Eve dinner and the opening of presents on Christmas morning continued.",
-  "judge_chatgpt": false,
+  "judge_chatgpt": null,
   "answer_gpt4": null,
   "judge_gpt4": null,
   "answer_newbing": "Yes!  \"My Summer Story\" (1994) is a sequel to \"A Christmas Story\" (1983).  It was originally released in theaters as \"It Runs in the Family\".  The film is another collaboration of director Bob Clark and author Jean Shepherd.  While it once again features narration by author Jean Shepherd, the cast is entirely different.",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "when did virgin australia (formerly virgin blue) commence flying in australia",
@@ -10612,12 +10612,12 @@
   "answer_gpt35": "Wonder Woman is currently available on Blu-Ray. It was released on August 29, 2017.",
   "judge_gpt35": false,
   "answer_chatgpt": "As an AI language model, I don't have access to real-time information or updates. However, Wonder Woman 1984 was released on Blu-ray and DVD on March 30, 2021. It is available for purchase on various online platforms and retail stores.",
-  "judge_chatgpt": false,
+  "judge_chatgpt": null,
   "answer_gpt4": null,
   "judge_gpt4": null,
   "answer_newbing": " There have been several releases on Blu-ray.  For example, Wonder Woman: The Complete Collection was released on Blu-ray on July 28th , while Wonder Woman 1984 was released for purchase on digital stores starting on March 16th \u2076.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "what nba team did derrick rose play for",
@@ -11032,12 +11032,12 @@
   "answer_gpt35": "In math, the three dots (also known as an ellipsis) usually indicate that the pattern or sequence continues on in the same way. For example, if you see the sequence 1, 2, 3, ..., it means that the sequence continues on with 4, 5, 6, and so on.",
   "judge_gpt35": false,
   "answer_chatgpt": "In math, the three dots (\u2026) are used to indicate an ellipsis, which means that there are additional terms or numbers that follow but are not explicitly written out. It is often used to indicate a pattern or sequence that continues indefinitely. For example, the sequence 1, 2, 3, \u2026 continues indefinitely and can be written as 1, 2, 3, \u2026.",
-  "judge_chatgpt": false,
+  "judge_chatgpt": null,
   "answer_gpt4": null,
   "judge_gpt4": null,
   "answer_newbing": "In mathematical logic, three dots arranged in an upright triangle (\u2234) means \"therefore\" .  It is generally used before a logical consequence, such as the conclusion of a syllogism.",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who wrote the song photograph by ringo starr",
@@ -11062,12 +11062,12 @@
   "answer_gpt35": "The halftime show at Super Bowl 50 was headlined by Coldplay, with special guests Beyonc\u00e9 and Bruno Mars.",
   "judge_gpt35": true,
   "answer_chatgpt": "As an AI language model, I do not have access to current events or live updates. However, I can tell you that the halftime show for Super Bowl 2021 was performed by The Weeknd.",
-  "judge_chatgpt": false,
+  "judge_chatgpt": null,
   "answer_gpt4": null,
   "judge_gpt4": null,
   "answer_newbing": "The Super Bowl 50 Halftime Show took place on February 7, 2016 at Levi's Stadium in Santa Clara, California.  It was headlined by British rock group Coldplay with special guest performers Beyonc\u00e9 and Bruno Mars .",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "to aru kagaku no railgun s episode 3",
@@ -12072,7 +12072,7 @@
   "judge_gpt4": null,
   "answer_newbing": "In season 2 of The Originals, Kol dies by hex .  He had been possessing a witch named Kaleb at that time .  Klaus also kills his father in a heartbreaking scene .",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "when did beryl markham fly across the atlantic",
@@ -14532,7 +14532,7 @@
   "judge_gpt4": null,
   "answer_newbing": "Anna Shcherbakova won the gold medal in the Olympic women\u2019s figure skating competition .",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "when was the dome of the rock completed",
@@ -20187,7 +20187,7 @@
   "judge_gpt4": null,
   "answer_newbing": "A foreign currency option is a contract that gives the buyer the right, but not the obligation, to buy or sell a certain currency at a specified exchange rate on or before a specified date.  For this right, a premium is paid to the seller.  They are useful for investors to hedge against unfavorable movements in exchange rates.",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "how many house of representative do we have in nigeria",
@@ -22872,7 +22872,7 @@
   "judge_gpt4": null,
   "answer_newbing": "The current Secretary of State for Northern Ireland is The Rt Hon Chris Heaton-Harris MP.  He was appointed to this position on 6 September 2022.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "when did they stop making jello pudding pops",
@@ -24072,7 +24072,7 @@
   "judge_gpt4": null,
   "answer_newbing": "De Beers Group is an international corporation that specializes in diamond mining, diamond exploitation, diamond retail, diamond trading and industrial diamond manufacturing sectors.  From its inception in 1888 until the start of the 21st century, De Beers controlled 80% to 85% of rough diamond distribution and was considered a monopoly.  Competition has since dismantled the complete monopoly;  the De Beers Group now sells approximately 29. 5% of the world's rough diamond production by value through its global sightholder and auction sales businesses.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who does claire from mcleods daughters end up with",
@@ -26727,7 +26727,7 @@
   "judge_gpt4": null,
   "answer_newbing": "",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "how and why were serial novels a phenomenon in the nineteenth century",
@@ -28542,7 +28542,7 @@
   "judge_gpt4": null,
   "answer_newbing": "Cody Rhodes won the 30-Man Royal Rumble Match in 2023 and booked his ticket to the main event at WrestleMania .",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "where did maria work in west side story",
@@ -28932,7 +28932,7 @@
   "judge_gpt4": null,
   "answer_newbing": "An island country is a country that is made up of one or more islands, or land that is surrounded completely by water.  Island nations are very unique because of their locations.  The main supply of food is fish, and these countries rely heavily on imports from continental nations.  Some examples of island countries include Iceland, Indonesia, and the Bahamas. A continental country is a country that is located on a continent and shares land borders with other countries.  Continental countries have access to a wider variety of resources and trade opportunities due to their location.  Some examples of continental countries include France, Greece, Italy, Portugal, and Spain\u2078.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who plays the girl in wreck it ralph",
@@ -29007,7 +29007,7 @@
   "judge_gpt4": null,
   "answer_newbing": "The pH scale measures how acidic or basic a substance is.  The scale ranges from 0 to 14, with 0 being the most acidic and 14 being the most basic.  Pure water has a pH value of 7, which is considered neutral.",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who sang if this world were mine with luther vandross",
@@ -29545,7 +29545,7 @@
   "judge_chatgpt": false,
   "answer_gpt4": null,
   "judge_gpt4": null,
-  "answer_newbing": "In 2018,Giuseppe Contewas sworn in as Italy\u2019s Prime Minister. He was a law professor who had never held political office before becoming Prime Minister.",
+  "answer_newbing": "In 2018,Giuseppe Contewas sworn in as Italy\u2019s Prime Minister1. He was a law professor who had never held political office before becoming Prime Minister1.",
   "judge_newbing": false,
   "improper": false
  },
@@ -29772,7 +29772,7 @@
   "judge_gpt4": null,
   "answer_newbing": "In the play \"Joe Turner's Come and Gone\" by August Wilson, Zonia Loomis is the daughter of Herald Loomis who has been traveling with her father in search of her mother Martha.  While staying at a boarding house, Zonia spends time talking to a neighboring boy named Reuben.  Reuben eventually tells Zonia that he will marry her when he grows up and she lets him kiss her .",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "dynamin is associated with which type of vesicle",
@@ -29977,12 +29977,12 @@
   "answer_gpt35": "The ending of Minority Report takes place in a rural area outside of Washington, D.C., where John Anderton (Tom Cruise) and Agatha (Samantha Morton) have gone to start a new life together.",
   "judge_gpt35": false,
   "answer_chatgpt": "The location at the end of Minority Report is a cabin in the woods where John Anderton (played by Tom Cruise) and his family are living in hiding.",
-  "judge_chatgpt": true,
+  "judge_chatgpt": null,
   "answer_gpt4": null,
   "judge_gpt4": null,
   "answer_newbing": "The last scene of the movie Minority Report was filmed at Beaverdam Park in Gloucester, Virginia.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "where does florida natural orange juice come from",
@@ -30297,7 +30297,7 @@
   "judge_gpt4": null,
   "answer_newbing": "where was because i could not stop for death published.",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "where was because i could not stop for death published",
@@ -30402,7 +30402,7 @@
   "judge_gpt4": null,
   "answer_newbing": "The UCLA-USC game is being played at theUnited Airlines Field at Los Angeles Memorial Coliseum1.",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "when was the electronic funds transfer act signed into law",
@@ -30837,7 +30837,7 @@
   "judge_gpt4": null,
   "answer_newbing": "As of January 28, 2022, Dr.  V.  Anantha Nageswaran has been appointed as the Chief Economic Advisor to the Government of India 1.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "when did michael jordan return to the nba",
@@ -31107,7 +31107,7 @@
   "judge_gpt4": null,
   "answer_newbing": "The current Chief Justice of Ghana is Kwasi Anin-Yeboah 1.  He was sworn in as Chief Justice by President Akufo-Addo on 7 January 2020 1.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "where does the highway of heroes start and end",
@@ -31122,7 +31122,7 @@
   "judge_gpt4": null,
   "answer_newbing": "The Highway of Heroes runs from Canadian Forces Base Trenton to the Ontario Coroner\u2019s Office on Granville Street in Toronto 1.",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who has won the most masters green jackets",
@@ -31257,7 +31257,7 @@
   "judge_gpt4": null,
   "answer_newbing": "According to my latest information, Republican Glenn Youngkin won the Virginia governor\u2019s race in 2021, defeating former Democratic Governor Terry McAuliffe1.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "when was the last time university of michigan won a national championship",
@@ -31482,7 +31482,7 @@
   "judge_gpt4": null,
   "answer_newbing": "The Song of Solomon is a book in the Old Testament of the Bible.  It is also known as the Song of Songs or Canticles.  It is the 22nd book in the Protestant Old Testament and the 23rd book in the Catholic Old Testament.",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "songs on 4 your eyez only j cole",
@@ -31677,7 +31677,7 @@
   "judge_gpt4": null,
   "answer_newbing": "The leader of the Ontario Progressive Conservative Party is Doug Ford1.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "nitty gritty dirt band fishin in the dark album",
@@ -32217,7 +32217,7 @@
   "judge_gpt4": null,
   "answer_newbing": "\u201cI Want to Be With You Everywhere\u201d is a song by Hayley and the Smoke released in 20141. Another song with a similar title is \u201cEverywhere\u201d by Fleetwood Mac from their 1987 album Tango In The Night2.",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "royal society for the protection of birds number of members",
@@ -32622,7 +32622,7 @@
   "judge_gpt4": null,
   "answer_newbing": "I\u2019m sorry, but I\u2019m not sure which seat you are referring to.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who has participated in the most super bowls",
@@ -34212,7 +34212,7 @@
   "judge_gpt4": null,
   "answer_newbing": "The Tri-Cities are three closely linked cities (Kennewick, Pasco, and Richland) at the confluence of the Yakima, Snake, and Columbia Rivers in the Columbia Basin of Eastern Washington1. As of April 1, 2021, the Washington State Office of Financial Management, Forecasting Division estimates the cities as having a combined population of 224,6401.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who wrote the music for christmas story live",
@@ -34647,7 +34647,7 @@
   "judge_gpt4": null,
   "answer_newbing": "Publishers Clearing House has many sweepstakes drawings throughout the year. One of their upcoming prize events is on April 30th, where $15,000,000. 00 is up for grabs1.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "where does summer of the monkeys take place",
@@ -34677,7 +34677,7 @@
   "judge_gpt4": null,
   "answer_newbing": "I\u2019m sorry, but I couldn\u2019t find any information about a new game show hosted by Ellen DeGeneres.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who won the workd series of poker 2017",
@@ -35847,7 +35847,7 @@
   "judge_gpt4": null,
   "answer_newbing": "Tom Brady played as a quarterback for the New England Patriots for 20 seasons, from 2000 to 20191. He was a central contributor to the franchise\u2019s dynasty during that time1. After leaving the Patriots, he joined the Tampa Bay Buccaneers for his final three seasons1.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who wrote the song stop the world and let me off",
@@ -35877,7 +35877,7 @@
   "judge_gpt4": null,
   "answer_newbing": "The Kansas City Chiefs have played many teams in the playoffs throughout their history.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "what category was hurricane charley when it hit florida",
@@ -36372,7 +36372,7 @@
   "judge_gpt4": null,
   "answer_newbing": "The Champions League Knockout Stage begins with the Round of 16 Draw on November 7, 2022. Round of 16 games will be played on the following Tuesday and Wednesday nights: February 14-15, 20231.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who was defeated in the french and indian war",
@@ -36522,7 +36522,7 @@
   "judge_gpt4": null,
   "answer_newbing": "The current season of American Idol premiered on February 27, 20221.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "what type of artwork was created in the safavid empire",
@@ -36942,7 +36942,7 @@
   "judge_gpt4": null,
   "answer_newbing": "Last night on Saturday Night Live, the musical guest was Lil Yachty1.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "where does the president get authority to issue executive orders",
@@ -37257,7 +37257,7 @@
   "judge_gpt4": null,
   "answer_newbing": "According to the World Health Organization (WHO), the most polluted city in the world is difficult to determine as air pollution levels vary over time and are influenced by many factors.  However, according to a 2016 report by the WHO, at the time of measurement, the most polluted city was Onitsha, a fast-growing city in Nigeria, which recorded roughly 30 times more than the WHO\u2019s recommended levels of PM10 particles1.  It is important to note that air pollution levels can change over time and more recent data may be available.",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who won the award for best goalkeeper in football world cup 2006",
@@ -40065,7 +40065,7 @@
   "improper": false
  },
  {
-  "question": "where is fight or flight in the brain",
+  "question": "colby chees is named after a town in what state",
   "golden_answer": "the adrenal medulla",
   "answer_fid": "the amygdala",
   "judge_fid": false,
@@ -40317,7 +40317,7 @@
   "judge_gpt4": null,
   "answer_newbing": "In order for a person to be guilty of an offence of manslaughter by gross negligence, there are four elements which the prosecution must prove:The defendant owed an existing duty of care to the deceased; The defendant breached this duty of care; The breach of duty caused (or significantly contributed to) the death of the deceased; The breach of duty should be characterized as gross negligence and therefore a crime 1.",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "why dry ether is used in woods reaction",
@@ -40752,7 +40752,7 @@
   "judge_gpt4": null,
   "answer_newbing": "I\u2019m sorry, but I need more information to answer your question.  The Grand National is an annual event and there have been many winners over the years.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "what is the account number of airtel payment bank",
@@ -41037,7 +41037,7 @@
   "judge_gpt4": null,
   "answer_newbing": "I\u2019m sorry, but I couldn\u2019t find any information about a halftime show at the Pro Bowl.  The Pro Bowl is an annual all-star game of the National Football League (NFL) and typically features a variety of events and activities leading up to the game, but I couldn\u2019t find any information about a halftime show.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who did corbin dance with on dancing with the stars",
@@ -41875,8 +41875,8 @@
   "judge_chatgpt": true,
   "answer_gpt4": null,
   "judge_gpt4": null,
-  "answer_newbing": "The Grand Canyon was formed over the course of millions of years by the Colorado River.  Scientists believe that around 35 million years ago, there was no canyon in that area and the Colorado River flowed across a vast plain.  Around the same time, the Kaibab Plateau started to appear right in the middle of the river\u2019s flow. Since the water couldn\u2019t pass over or through the plateau, the river\u2019s course was diverted.",
-  "judge_newbing": false,
+  "answer_newbing": "nan.",
+  "judge_newbing": null,
   "improper": false
  },
  {
@@ -41890,7 +41890,7 @@
   "judge_chatgpt": true,
   "answer_gpt4": null,
   "judge_gpt4": null,
-  "answer_newbing": "The river split into two parts, with one part flowing into the Gulf of Mexico and the other part forming a huge lake. The lake eventually drained, forming the Grand Canyon1. The uplift of the Colorado Plateau was a key step in the eventual formation of Grand Canyon.",
+  "answer_newbing": "The Young and the Restless is filmed at Television City Studios in Hollywood, California1.  The show is set in fictional Genoa City (not the real-life similarly-named Genoa City, Wisconsin)1.",
   "judge_newbing": true,
   "improper": false
  },
@@ -42597,7 +42597,7 @@
   "judge_gpt4": null,
   "answer_newbing": "The Major League Baseball (MLB) regular season for 2023 is scheduled to begin on March 30th with a pair of games at 12:05 PM (ET), Yankees vs Giants and Nationals vs Braves1.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "when is season 4 of flash coming out",
@@ -44022,7 +44022,7 @@
   "judge_gpt4": null,
   "answer_newbing": "The normal blood clotting process, also known as hemostasis, occurs in three steps: vascular spasm, the formation of a platelet plug, and coagulation (blood clotting) 1.",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "who played sonny in lemony snicket's a series of unfortunate events",
@@ -44337,7 +44337,7 @@
   "judge_gpt4": null,
   "answer_newbing": "Tiffany Coyne is best known for her role as the model/co-host on the hit CBS Daytime show, Let\u2019s Make a Deal 1.",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "what mlb teams did deion sanders play for",
@@ -44502,7 +44502,7 @@
   "judge_gpt4": null,
   "answer_newbing": "The current governor of Maharashtra is Ramesh Bais since February 13, 20231.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "what channel is abc on in phoenix arizona",
@@ -45567,7 +45567,7 @@
   "judge_gpt4": null,
   "answer_newbing": "I\u2019m sorry, but I couldn\u2019t find any information about the most recent winner of the Head of Household competition on Big Brother Canada.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "only player to play for manchester united manchester city liverpool and everton",
@@ -45612,7 +45612,7 @@
   "judge_gpt4": null,
   "answer_newbing": "Aaron Charles Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL)1.",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "georgia out of angus thongs and perfect snogging",
@@ -46257,7 +46257,7 @@
   "judge_gpt4": null,
   "answer_newbing": "According to a Forbes article from August 2021, the largest home ever permitted in Los Angeles County is a massive Beverly Hills compound spearheaded by real estate developer Mohamed Hadid1. The property hit the market with an asking price of $250 million1.",
   "judge_newbing": false,
-  "improper": false
+  "improper": true
  },
  {
   "question": "what was the original purpose of the kremlin",
@@ -48717,7 +48717,7 @@
   "judge_gpt4": null,
   "answer_newbing": "\u201cHarry Potter and the Deathly Hallows: Part 1\u201d was filmed in various locations.  Some of these locations include Pinewood Studios and Leavesden Warner Bros. Studios, as well as Dartford Crossing, Pembrokeshire, Wales;  Swinley Forest, Yorkshire Dales National Park, Malham Cove, Freshwater West, and Burnham Beeches1.",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "when was the last year thanksgiving was on the 23rd",
@@ -49662,7 +49662,7 @@
   "judge_gpt4": null,
   "answer_newbing": "John Obi Mikel scoredsix goalsin 374 games during his 10 years at Chelsea1.",
   "judge_newbing": true,
-  "improper": false
+  "improper": true
  },
  {
   "question": "how many players on the line of scrimmage in american football",
