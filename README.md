@@ -6,14 +6,14 @@
   [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/yafuly/DeepfakeTextDetect/issues)
 </div>
 
-  # 📌 Table of Contents
+# 📌 Table of Contents
 - [Introduction](#-introduction)
 - [Dataset](#-dataset)
 - [License](#-license)
 - [Citation](#-citation)
 - [Contact](#-contact)
   
-  # 🚀 Introduction
+# 🚀 Introduction
   Welcome to our GitHub repository for the "Evaluating Open-QA Evaluation" [paper](https://arxiv.org/abs/2305.12421), a comprehensive study on the evaluating of evaluation methods in Open Question Answering (Open-QA) systems.
   
   Open-QA systems, which generate answers to questions with a vast range of possible topics, have become an increasingly significant research field in recent years. However, accurately evaluating these systems remains challenging, and currently lacks robust, reliable methods.
@@ -24,7 +24,7 @@
   
   Through this work, we hope to foster a deeper understanding of Open-QA systems, their evaluations, and aid the research community in developing more reliable automatic evaluation tools.
   
-  # 📝 Dataset
+# 📝 Dataset
   ## Data Description
   
   Each data point in our dataset is represented as a dictionary with the following keys:
@@ -64,7 +64,7 @@
  |ChatGPT-4 |3610|2000|
  |Bing Chat |3610|2000|
  
- # 📜 License
+# 📜 License
 
 This dataset is released under the [Apache-2.0 License](LICENSE).
 
