@@ -72,13 +72,13 @@ This dataset is released under the [Apache-2.0 License](LICENSE).
 
 If you use this dataset in your research, please cite it as follows:
 ```bibtex
-@misc{wang2023evaluating,
-      title={Evaluating Open-QA Evaluation}, 
-      author={Cunxiang Wang and Sirui Cheng and Qipeng Guo and Zhikun Xu and Bowen Ding and Yidong Wang and Xiangkun Hu and Zheng Zhang and Yue Zhang},
-      year={2023},
-      eprint={2305.12421},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{
+  wang2023evaluating,
+  title={Evaluating Open-{QA} Evaluation},
+  author={Cunxiang Wang and Sirui Cheng and Qipeng Guo and Yuanhao Yue and Bowen Ding and Zhikun Xu and Yidong Wang and Xiangkun Hu and Zheng Zhang and Yue Zhang},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+  year={2023},
+  url={https://openreview.net/forum?id=UErNpveP6R}
 }
 ```
 ## 📮 Contact
